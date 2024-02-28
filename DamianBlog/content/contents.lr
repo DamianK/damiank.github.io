@@ -1,6 +1,7 @@
-title: Welcome to DamianBlog!
+title: Bienvenido a mi Blog!
 ---
 body:
 
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+Este es el blog de Damian Kleiman. Soy un desarrollador de Rosario, Argentina. 
+Trabajo con Python, y este blog esta hecho con Lektor y alojado en GitHub Pages.
+
