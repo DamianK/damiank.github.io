@@ -1,0 +1,16 @@
+Title: Migrating to GitHub
+---
+pub:date: 2024-06-13
+---
+author: damian
+---
+body:
+
+Hello guys. In the following days I'll be migrating my Blog to GitHub pages. The idea behind this
+is that I want to publish directly from my code editor (NeoVim) and for this I'm using a great static
+content generator called Lektor, which runs on Python (which is great).
+So as soon as I can I'll copy the posts from my old Blog here. Also another thing is that I'm going
+to use english for this blog in the future so more people can understand what I'm publishing.
+
+Regards,
+Damian
